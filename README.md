@@ -2,6 +2,7 @@
 
 2) For the second task, all of the questions where answerd in four seperate parts. (q2p1,q2p2,q2p3 and q2p4).
 * I have imported the Holidays csv file to the Database.
+
 Based on Query results, We can see a huge differnece between dialy average of sales in holidays and non-holidays. Additionaly based on queries, it is obvious that holidays may have an absoloute impact on Providers Availability.
 
 4) In my opinion It is impossible to to analyze the campgain imapct on holidays without datails of holidays before starting campgain.
