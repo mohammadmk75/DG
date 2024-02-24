@@ -1,11 +1,12 @@
 1) For the first, Task both parts where answered in two seperate sql queries. q1p1 and q1p2.
 
 2) For the second task, all of the questions where answerd in four seperate parts. (q2p1,q2p2,q2p3 and q2p4).
+* I have imported the Holidays csv file to the Database.
 Based on Query results, We can see a huge differnece between dialy average of sales in holidays and non-holidays. Additionaly based on queries, it is obvious that holidays may have an absoloute impact on Providers Availability.
 
-3) In my opinion It is impossible to to analyze the campgain imapct on holidays without datails of holidays before starting campgain.
+4) In my opinion It is impossible to to analyze the campgain imapct on holidays without datails of holidays before starting campgain.
 
-4) I have set a docker container for metbase using metabase official docker image.
+5) I have set a docker container for metbase using metabase official docker image.
 
 The commands are as below:
 
